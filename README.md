@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Kanwar!
 
-<!--
-**Strawhatkanwar/Strawhatkanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer & Researcher | Blockchain enthusiast 
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- **Languages:** Python, SQL, R, JavaScript (basic)  
+- **ML/DL:** PyTorch, TensorFlow, Hugging Face Transformers, Scikit-learn  
+- **Deployment:** Google Cloud Platform, FastAPI, Docker, Git
+- **Data Tools:** Pandas, NumPy, MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- [Smart Bin Forecasting (Transformers)](https://github.com/Strawhatkanwar/smart_bin_project)  
+  Forecasting bin fill levels using Hugging Face TimeSeriesTransformer.  
+- [Network Traffic Classification](https://github.com/rujjal/network_traffic_classification)  
+  CNN+LSTM model for benign/malicious traffic detection, >90% accuracy.  
+- [Grass Growth Forecasting (TFT)]  
+  Multi-horizon forecasting using Temporal Fusion Transformer.  
+
+### 📫 Contact
+- [LinkedIn](www.linkedin.com/in/shubham-kanwar-542859100)  
+- Email: kanwars006@gmail.com  
